@@ -8,7 +8,7 @@ To use Emotion Detection Model
 4. run the gui.py file
 5. upload the image in the GUI
 6. click on the Detect button to detect the emotion
-.
-.
+
+
 Note:
 unable to upload weight file (model_weight.weights.h5) as size > 200 MB
